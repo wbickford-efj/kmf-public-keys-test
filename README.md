@@ -1,0 +1,1 @@
+This repository contains public keys needed for integration testing with EF Johnson's IKI implementation.
